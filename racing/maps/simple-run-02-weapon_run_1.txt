@@ -1,0 +1,46 @@
+20/07/2016
+================================================================
+Title                   : Weapon Run 1
+Filename                : simple-run-02-weapon_run_1
+Author                  : TristamK
+Email Address           : tristam@bk.ru 
+Description             : This map is my first experiment in editing
+weapons in gameplay. After some updates this map start look much better.
+Also ability to choice way add some variation to the every play session.
+Additional Thanks	: Too all who believed that in some day 
+i will release this map
+
+================================================================
+
+* Play Information *
+
+Checkpoints             : No
+Players                 : 1-5
+Deathmaterial           : Yes
+
+
+* Construction *
+
+Base                    : New level from scratch
+Known problems          : None
+Date of start           : 12/02/2014
+Last update             : 03/08/2016
+
+
+* How to Use *
+
+Extract *.ogz into your base\ directory, launch
+Cube 2 Sauerbraten and type "map mapname" from the console 
+
+
+* Other Info *
+
+None
+
+
+* Copyright / Permissions / License *
+
+This work, made by TristamK <tristam@bk.ru>, is licensed under the Creative Commons Attribution-ShareAlike 4.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/4.0/ 
+

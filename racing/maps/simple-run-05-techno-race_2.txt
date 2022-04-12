@@ -1,0 +1,44 @@
+21/07/2016
+================================================================
+Title                   : Techono Race 2
+Filename                : simple-run-05-techno-race_2
+Author                  : TristamK
+Email Address           : tristam@bk.ru 
+Description             : Same thing but with overused jumppads
+Additional Thanks	: Too all who believed that in some day 
+i will release this map
+
+================================================================
+
+* Play Information *
+
+Checkpoints             : No
+Players                 : 1-5
+Deathmaterial           : Yes
+
+
+* Construction *
+
+Base                    : New level from scratch
+Known problems          : Some FPS drops
+Date of start           : 04/06/2014
+Last update             : 09/06/2016
+
+
+* How to Use *
+
+Extract *.ogz into your base\ directory, launch
+Cube 2 Sauerbraten and type "map mapname" from the console 
+
+
+* Other Info *
+
+None
+
+
+* Copyright / Permissions / License *
+
+This work, made by TristamK <tristam@bk.ru>, is licensed under the Creative Commons Attribution-ShareAlike 4.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/4.0/ 
+

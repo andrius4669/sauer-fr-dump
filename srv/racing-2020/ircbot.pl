@@ -1,0 +1,1 @@
+../../zeromod-sauerbraten-2020/src/ircbot.pl

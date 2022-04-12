@@ -1,0 +1,1 @@
+../../zeromod-sauerbraten-collect/src/ircbot.pl

@@ -1,0 +1,37 @@
+==== Storm Races by Blox ==
+INFORMATION:
+
+The maps are inspired from NVM-Race-4 to a new theme "RUINS"
+This file is actually (going to be) included with the Stormy Pack (All storm races)
+
+[If you'd like to contribute maps, please read INFO]
+Difficulties (sorted from easiest to hardest) Simple Easy Moderate Medium Hard Extreme Insane Impossible
+Themes: Paradoxial, Computer Inside, Burning World, Space, Ruins, Sea, None
+Amounts of shortcuts can be 0-10
+Put your nick at the end
+After putting the nick, please insert a little description like on first one
+[INFO FILE ENDS HERE]
+Map list:
+Number. Name - Amount of shortcuts - Difficulty - Theme - By - Description (optional)
+1. The Storm - 1 Shortcut - Medium - Paradoxial - Blox - You find youself in a cave, falling into a misterious place filled with storm and make your way to the finish!
+2. Abandon Fog - 0 Shortcuts - Moderate - Paradoxial - Blox - After the escape, a new gate opens. Getting yourself ready for a giant fog, coming after every storm's end
+3. Burning Fire - 0 Shortcuts - Easy - Burning World - Blox - A bad meteor fell, hitting the earth, you'll have to make your way through every burnt piece, avoiding the fire!
+4. ???? - ? Shortcuts - ???? - ???? - ???? - Your map may be here!
+
+
+Contact Skype: spoken.gaming & alka200312 (as for now :P)
+To contribute use the skype above
+OR use this email: bloxxingblocks@gmail.com
+OR meet me in the following Sauerbraten servers:
++ Racing League +
++ Racing Reloaded +
+Venice Inferno 2
+D E M O P H O B I A
+Venice P@rtal
+Venice Inferno
+[Some zombie invasion servers]
+[Venice Instagib Servers]
+[InstaCTF Servers + Free #BEER]
+[Racing Servers]
+[/dev/openX & /dev/open_usaX where X = number]
+Mapping Heaven

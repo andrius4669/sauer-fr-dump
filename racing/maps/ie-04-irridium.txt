@@ -1,0 +1,43 @@
+01/10/2016
+================================================================
+Title                   : Irridium
+Filename                : ie-04-irridium
+Author                  : TristamK
+Email Address           : tristam@bk.ru 
+Description             : Improved Edition - my new series of race map where i am trying to revive abandoned maps
+Additional Thanks	: Thanks for all, who still wait my maps, and want play on it
+
+================================================================
+
+* Play Information *
+
+Checkpoints             : No
+Players                 : 1-6
+Deathmaterial           : Yes
+
+
+* Construction *
+
+Base                    : Based on map by Andrei and Manmellon
+Known problems          : None
+Date of start           : 15/08/2016
+Last update             : 01/10/2016
+
+
+* How to Use *
+
+Extract *.ogz into your base\ directory, launch
+Cube 2 Sauerbraten and type "map mapname" from the console 
+
+
+* Other Info *
+
+None
+
+
+* Copyright / Permissions / License *
+
+This work, made by TristamK <tristam@bk.ru>, is licensed under the Creative Commons Attribution-ShareAlike 4.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/4.0/ 
+

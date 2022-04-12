@@ -1,0 +1,4 @@
+#!/bin/sh
+export HOME=/home/zero
+export USER=zero
+exec setuidgid "$USER" svscan "$HOME/service"

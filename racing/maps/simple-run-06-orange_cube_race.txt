@@ -1,0 +1,45 @@
+21/07/2016
+================================================================
+Title                   : Orange Cube Race
+Filename                : simple-run-06-orange_cube_race
+Author                  : TristamK
+Email Address           : tristam@bk.ru 
+Description             : Orange Cube Race or what can be done with
+imagination from one random render that you find in google
+Additional Thanks	: Too all who believed that in some day 
+i will release this map
+
+================================================================
+
+* Play Information *
+
+Checkpoints             : No
+Players                 : 1-4
+Deathmaterial           : Yes
+
+
+* Construction *
+
+Base                    : New level from scratch
+Known problems          : None
+Date of start           : 13/06/2014
+Last update             : 20/06/2016
+
+
+* How to Use *
+
+Extract *.ogz into your base\ directory, launch
+Cube 2 Sauerbraten and type "map mapname" from the console 
+
+
+* Other Info *
+
+None
+
+
+* Copyright / Permissions / License *
+
+This work, made by TristamK <tristam@bk.ru>, is licensed under the Creative Commons Attribution-ShareAlike 4.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/4.0/ 
+

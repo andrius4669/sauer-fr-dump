@@ -1,0 +1,46 @@
+20/07/2016
+================================================================
+Title                   : Old Run
+Filename                : simple-run-01-oldrun
+Author                  : TristamK
+Email Address           : tristam@bk.ru 
+Description             : First my map in this race map series. 
+Speaking truthly map "CANAL" is much more older but here this map
+will be on the first place 
+Additional Thanks	: Too all who believed that in some day 
+i will release this map
+
+================================================================
+
+* Play Information *
+
+Checkpoints             : No
+Players                 : 1-4
+Deathmaterial           : Yes
+
+
+* Construction *
+
+Base                    : Based on the layout that i found on the servers
+Known problems          : None
+Date of start           : 09/02/2014
+Last update             : 16/08/2016
+
+
+* How to Use *
+
+Extract *.ogz into your base\ directory, launch
+Cube 2 Sauerbraten and type "map mapname" from the console 
+
+
+* Other Info *
+
+None
+
+
+* Copyright / Permissions / License *
+
+This work, made by TristamK <tristam@bk.ru>, is licensed under the Creative Commons Attribution-ShareAlike 4.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/4.0/ 
+
